@@ -6,13 +6,13 @@
 ### references
 
 
-[title]("C:\Users\WADE BURGESS\Desktop\Bootcamp\BootCamp\code")
+[Code](code)
 
-[title]("C:\Users\WADE BURGESS\Desktop\Bootcamp\BootCamp\data")
+[Data](data)
 
-[title]("C:\Users\WADE BURGESS\Desktop\Bootcamp\BootCamp\images")
+[Images](Images)
 
-[title]("C:\Users\WADE BURGESS\Desktop\Bootcamp\BootCamp\references")
+[References](references)
 
-![picture](images/Estonia.jpg)
+![picture](Images/Estonia.JPG)
 
