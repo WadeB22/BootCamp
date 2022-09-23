@@ -14,5 +14,9 @@
 
 [References](references)
 
+<<<<<<< HEAD
 ![picture](Images/Estonia.JPG)
+=======
+![picture](images/Estonia.JPG)
+>>>>>>> 09127078e3fcc0345d94b65f2154077c0a2ad35e
 
