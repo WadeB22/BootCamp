@@ -14,5 +14,5 @@
 
 [title]("C:\Users\WADE BURGESS\Desktop\Bootcamp\BootCamp\references")
 
-![picture](images/Estonia.jpg)
+![picture](images/Estonia.JPG)
 
