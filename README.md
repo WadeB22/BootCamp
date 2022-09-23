@@ -14,4 +14,4 @@
 
 [References](references)
 
-![picture](Images/Estonia.JPG)
+![picture](images/Estonia.JPG)
