@@ -10,7 +10,7 @@
 
 [Data](data)
 
-[Images](Images)
+[Images](images)
 
 [References](references)
 
